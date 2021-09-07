@@ -1,0 +1,10 @@
+Id,Ime,Prezime,Godina rodjenja,Pol,Tip stanovnika,Stanje zaraze
+4,+S,v?,1977,Ž,Odrasla osoba,ZARAZEN
+7,@N,[1,1922,Ž,Starija osoba,NIJE ZARAZEN
+1,Wu,8,,2021,M,Dijete,NIJE ZARAZEN
+8,q*,EX,1937,Ž,Starija osoba,NIJE ZARAZEN
+5,nu,2+,1968,Ž,Odrasla osoba,NIJE ZARAZEN
+2,Wp,eG,2013,M,Dijete,BIO ZARAZEN
+6,aN,vc,1964,M,Odrasla osoba,NIJE ZARAZEN
+3,aO,r=,2006,M,Dijete,NIJE ZARAZEN
+9,ej,M_,1935,M,Starija osoba,BIO ZARAZEN

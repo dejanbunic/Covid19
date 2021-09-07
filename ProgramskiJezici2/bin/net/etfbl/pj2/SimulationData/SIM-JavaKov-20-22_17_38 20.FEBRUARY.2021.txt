@@ -1,0 +1,12 @@
+#Sat Feb 20 22:17:38 CET 2021
+Ukupan\ broj\ slucajeva=1
+Broj\ djece=1
+Vrijeme\ trajanja\ simulacije=00\:00\:48
+Broj\ kontrolnih\ punktova=11
+Broj\ izlijecenih=1
+Broj\ kuca=1
+Broj\ odraslih\ osoba=1
+Broj\ starijih\ osoba=1
+Broj\ trenutno\ zarazenih=0
+Broj\ ambulanti=4
+Broj\ ambulantnih\ vozila=1
